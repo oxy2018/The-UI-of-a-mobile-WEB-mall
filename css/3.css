@@ -1,0 +1,68 @@
+.container{
+	width: 100%;
+}
+.top{
+	background-color:#F8F8FF;
+}
+div{
+	padding-right: 0 !important;
+}
+.shopcar{
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size:40px;
+	color: #000;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+img{
+	text-align: center;
+}
+.goods{
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size:30px;
+	font-weight: bold;
+	color: #000;
+}
+.descr{
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size:24px;
+	color: #000;
+}
+.total{
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size:34px;
+	color: #f00;
+	display: inline-block;
+}
+.price{
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size:24px;
+	color: #000;
+	display: inline-block;
+	margin-top: 10px;
+}
+.text_box{
+	text-align: center;
+	width: 50px;
+	height: 40px;
+	font-size: 23px;
+}
+.min{
+	width: 30px;
+	height: 40px;
+	font-size: 19px;
+}
+.add{
+	width: 30px;
+	height: 40px;
+	font-size: 19px;
+}
+.btn{
+	height: 40px;
+	font-size: 19px;
+}
+li a{
+	font-family: "Microsoft YaHei",微软雅黑;
+    font-size:24px;
+}

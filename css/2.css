@@ -1,0 +1,37 @@
+.container{
+	width: 90%;
+}
+.row{
+	text-align: center;
+}
+.goods{
+	font-family: "Microsoft YaHei",微软雅黑;
+	text-align: left;
+	font-size: 24px;
+	color: #000;
+	height: 70px;
+}
+.price{
+	font-family: "Microsoft YaHei",微软雅黑;
+	text-align: left;
+	font-size: 24px;
+	color: #f00;
+}
+.color{
+	color: #f00;
+}
+.col-xs-6{
+	height: 400px;
+}
+.btn{
+	width: 34px;
+	height: 34px;
+	padding: 0 0 0 0;
+	font-size:24px;
+	color: #f00;
+}
+li a{
+	font-family: "Microsoft YaHei",微软雅黑;
+    font-size:24px;
+}
+
